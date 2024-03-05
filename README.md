@@ -1,5 +1,5 @@
 
-# Local-AI-Open-Orca-For-Dummies
+# Local AI Open Orca For Dummies
 
 ![GIF showing example being used](./assets/example-being-used.gif)
 
