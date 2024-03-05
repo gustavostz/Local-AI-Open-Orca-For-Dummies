@@ -1,6 +1,8 @@
 
 # Local-AI-Open-Orca-For-Dummies
 
+![GIF showing example being used](./assets/example-being-used.gif)
+
 Welcome to **Local-AI-Open-Orca-For-Dummies**, the simplest way to run a Large Language Model (LLM) locally on your machine! No more complex setups, just straightforward AI fun with OpenOrca.
 
 ## Installation
