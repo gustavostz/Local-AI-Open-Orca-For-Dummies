@@ -5,7 +5,7 @@
 
 Welcome to **Local AI Open Orca For Dummies**, the simplest way to run a Large Language Model (LLM) locally on your machine! No more complex setups, just straightforward AI fun with OpenOrca.
 
-Ps: This a proj*ct from a frustated developer that tried many complex approaches to run different AI models locally and decided to make it easier for everyone.*
+*P.S. This is a project by a frustrated developer who tried many complex approaches to running different LLMs models locally and decided to make it easier for everyone.*
 
 ## Installation
 
